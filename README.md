@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arch-TTY</h1>
+<h1 align="center">Arch-TTY</h1>
 Hobbyist Developer
 
 ### Contact Me
