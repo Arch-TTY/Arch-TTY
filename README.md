@@ -4,7 +4,7 @@ Hobbyist Developer
 ### Contact Me
 <p align="center">
   <a href="https://discord.com/users/1502030226883084569">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Discord" width="40" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Discord" width="40" />&nbsp;&nbsp;
   <a href="https://gitlab.com/Arch-TTY">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" alt="Gitlab" width="40" />
   </a>
